@@ -1,2 +1,4 @@
 # top_github
-Simple Python Data visualization of Githubs' highest Starred Python Projects 
+Simple, yet effective Python Data visualization  program of Githubs' highest starred python projects using the github api.
+by @farrisaziz 
+
